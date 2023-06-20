@@ -1,0 +1,12 @@
+Package: nestedclustering
+Type: Package
+Title: Model-Based Clustering with Nested Gaussian Clusters
+Version: 0.2.4
+Author: Jason Hou-Liu
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Model-Based Clustering with Nested Gaussian Clusters
+License: GPL-3
+Encoding: UTF-8
+Depends: Rfast, mclust, RcppProgress
+LinkingTo: Rcpp, RcppProgress, RcppArmadillo
+NeedsCompilation: yes
